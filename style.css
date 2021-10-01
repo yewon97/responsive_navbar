@@ -48,7 +48,6 @@ a {
 
 .navbar__icons {
   list-style: none;
-  color: var(--text-color);
   display: flex;
   padding-left: 0;
 }
@@ -56,6 +55,11 @@ a {
 .navbar__icons li {
   padding: 8px 12px;
 }
+
+.navbar__icons a:hover {
+  color: var(--accent-color);
+}
+
 
 .navbar__toogleBtn {
   display: none;
