@@ -2,3 +2,5 @@
 
 [수정]
 navbar--icons에 a태그 줘서 호버시 색상바뀌게 함
+
+https://goofy-leakey-3d0a20.netlify.app/
